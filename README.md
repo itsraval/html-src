@@ -1,2 +1,2 @@
 # html-src
-Check for update of a websites.
+This program checks if a website is been updated since "html-src" is being launched.
