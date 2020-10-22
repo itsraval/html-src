@@ -9,6 +9,12 @@ You can delete urls (in app) if you don't need them anymore.
 # To do
 You have to set the variable "fileLocation" (line 8) with the location of your csv file to be able to save urls. If there is no file the program will make it.
 
+# Input format
+You need the write the whole url, http/https included.  
+Example:  
+YES https://www.google.it/  
+NO  www.google.it  
+
 # Used libraries
 * requests
 * hashlib
