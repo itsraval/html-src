@@ -12,8 +12,8 @@ You have to set the variable "fileLocation" (line 8) with the location of your c
 # Input format
 You need the write the whole url, http/https included.  
 Example:  
-YES https://www.google.it/  
-NO  www.google.it  
+YES https://github.com/itsraval/  
+NO  github.com/itsraval/  
 
 # Used libraries
 * requests
