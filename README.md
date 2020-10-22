@@ -10,8 +10,8 @@ You can delete urls (in app) if you don't need them anymore.
 You have to set the variable "fileLocation" (line 8) with the location of your csv file to be able to save urls. If there is no file the program will make it.
 
 # Used libraries
-requests
-hashlib
-time
-webbrowser
-cvs
+* requests
+* hashlib
+* time
+* webbrowser
+* cvs
